@@ -1,0 +1,16 @@
+{
+    "version": "0.0.21",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/aenthill/aenthill/releases/download/0.0.21/aenthill_windows_386.zip",
+            "bin": "aenthill.exe"
+        },
+        "64bit": {
+            "url": "https://github.com/aenthill/aenthill/releases/download/0.0.21/aenthill_windows_amd64.zip",
+            "bin": "aenthill.exe"
+        }
+    },
+    "homepage": "https://aenthill.github.io/",
+    "license": "MIT",
+    "description": "A command-line tool that helps bootstraping your Docker projects easily"
+}
