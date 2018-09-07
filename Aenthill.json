@@ -12,5 +12,5 @@
     },
     "homepage": "https://aenthill.github.io/",
     "license": "MIT",
-    "description": "A command-line tool that helps bootstraping your Docker projects easily"
+    "description": "Command-line tool that helps bootstraping your Docker projects easily"
 }
