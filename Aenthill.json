@@ -1,15 +1,15 @@
 {
-    "version": "0.0.26",
+    "version": "0.0.27",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/aenthill/aenthill/releases/download/0.0.26/aenthill_windows_386.tar.gz",
+            "url": "https://github.com/aenthill/aenthill/releases/download/0.0.27/aenthill_windows_386.tar.gz",
             "bin": "aenthill.exe",
-            "hash": "aed47db60fcfeea2337b8fb12a39eb212447eda92f6f1648455392e73bff2a7f"
+            "hash": "9a7e7c2a16db35727c7481fd5cd81882d59cb14cac2454d2bee65865b062e2ae"
         },
         "64bit": {
-            "url": "https://github.com/aenthill/aenthill/releases/download/0.0.26/aenthill_windows_amd64.tar.gz",
+            "url": "https://github.com/aenthill/aenthill/releases/download/0.0.27/aenthill_windows_amd64.tar.gz",
             "bin": "aenthill.exe",
-            "hash": "d951bcb92c0597dc4115dcac09574e76de5953d67cefcdc07231006497d0454a"
+            "hash": "c05cb91aa018f5a0a3624fe7eda1301b422712859377c8b9480948e23fe9b419"
         }
     },
     "homepage": "https://aenthill.github.io/",
